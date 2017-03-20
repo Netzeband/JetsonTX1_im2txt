@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a collection of scripts and tutorials that are useful to to setup the [Jetson TX1](http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html) development board from NVIDIA the first time. Furthermore it explains how to install important frameworks like [Tensorflow](https://www.tensorflow.org/) and [OpenCV3](http://opencv.org/), so the google [im2txt](https://github.com/tensorflow/models/tree/master/im2txt) ("show and tell") neural network ([article](http://arxiv.org/abs/1609.06647)) can operate on Jetson.
+This is a collection of scripts and tutorials that are useful to setup the [Jetson TX1](http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html) development board from NVIDIA the first time. Furthermore it explains how to install important frameworks like [Tensorflow](https://www.tensorflow.org/) and [OpenCV3](http://opencv.org/), so the google [im2txt](https://github.com/tensorflow/models/tree/master/im2txt) ("show and tell") neural network ([article](http://arxiv.org/abs/1609.06647)) can operate on Jetson.
 
 ***Attention:*** This repository uses [git-lfs](https://git-lfs.github.com/) for large files. You need to install [git-lfs](https://git-lfs.github.com/) in order to download the large binary files.
 
