@@ -37,7 +37,7 @@ Since this is a collection of different tutorials and scripts from different sou
     * `tensorflow-patch2.diff`: [Source](http://www.yuthon.com/2016/12/04/Installation-of-TensorFlow-r0-11-on-TX1/), License: unknown
 * `<reprository-root>/tensorflow-jetson/*`: [Source](https://www.tensorflow.org/), [License: Apache License](https://github.com/tensorflow/models/blob/master/LICENSE)
 * `<reprository-root>/im2txt-app/im2txt/*`: [Source](https://github.com/tensorflow/models/tree/master/im2txt), [License: Apache License](https://github.com/tensorflow/models/blob/master/LICENSE)
-* `<reprository-root>/im2txt-app/*.py`: Source: my own, [License: MIT](https://opensource.org/licenses/MIT])
+* `<reprository-root>/im2txt-app/*.py`: Source: my own, [License: MIT](https://opensource.org/licenses/MIT)
 * `<reprository-root>/im2txt-model/*`: [Source](https://github.com/tensorflow/models/issues/466#issuecomment-251756098), License: unknown
 * `<reprository-root>/im2txt-images/*`: [Source](http://mscoco.org/dataset/#overview), [License](http://mscoco.org/terms_of_use/)
 * `<reprository-root>/run-im2txt.sh`: Source: my own, [License: MIT](https://opensource.org/licenses/MIT)
